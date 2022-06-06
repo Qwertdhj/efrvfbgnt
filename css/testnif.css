@@ -632,14 +632,21 @@ input#search {
 }
 .main_card
 {
-    width: 610px;
+    width: 450px;
     margin-top: 13px;
 }
-	.disc{
-	    font-family: 'Roboto', sans-serif;
-	}
-	.how
-	{
-	    font-family: 'Roboto', sans-serif;
-	}
+ 
+ .card_cat {
+ width: 10px;
+ }
+ .card_datails
+ {
+    width: 442px;
+    margin-top: 159px;
+
+ }
+ .how
+ {
+     display: none;
+ }
 }
